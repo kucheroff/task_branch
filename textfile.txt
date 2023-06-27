@@ -1,4 +1,4 @@
-string1
+conflict string1
 string2
 string3
-branch 2 text
+conflict text1
